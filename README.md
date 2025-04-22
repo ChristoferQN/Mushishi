@@ -3,8 +3,9 @@
 Projeto de estudo para desenvolver habilidades de HTML e CSS.
 
 ##### Obs: 
-######Esse projeto foi feito puramente para estudo e compreensão de tags, classes, estilização e responsividade.
-######O projeto em si consiste em uma "loja" ficticia que vende mangás de um anime chamado Mushishi, além de trazer informações sobre a obra.
+
+###### Esse projeto foi feito puramente para estudo e compreensão de tags, classes, estilização e responsividade.
+###### O projeto em si consiste em uma "loja" ficticia que vende mangás de um anime chamado Mushishi, além de trazer informações sobre a obra.
 
 ## Funcionalidades
 
