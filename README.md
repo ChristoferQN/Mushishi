@@ -14,19 +14,19 @@ Projeto de estudo para desenvolver habilidades de HTML e CSS.
 
 ## Demonstração
 
-  ### Home
+  #### Home
   ![image](https://github.com/user-attachments/assets/46260211-1b10-4c67-92ac-15e10a502d30)
   ![image](https://github.com/user-attachments/assets/611177b5-bfe6-47be-a0ed-e3bc79a85d2d)
   ![image](https://github.com/user-attachments/assets/ac031c45-35b0-4c5e-ae07-db8f578ed8e0)
 
-  ### Contato
+  #### Contato
   ![image](https://github.com/user-attachments/assets/e3a1a3ff-247e-4e30-82dc-79832d33f19c)
 
-  ### Fotos
+  #### Fotos
   ![image](https://github.com/user-attachments/assets/c2590a62-2bbe-414a-ac11-eb3a86fce52b)
   ![image](https://github.com/user-attachments/assets/6245fafe-d8f5-43e3-bf37-b4ea68f55f1f)
 
-  ### Comentários
+  #### Comentários
   ![image](https://github.com/user-attachments/assets/033e215c-1297-41f6-8a72-ffb3d7230158)
 
 ## Tecnologias Utilizadas
